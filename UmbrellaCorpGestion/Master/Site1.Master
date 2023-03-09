@@ -1,0 +1,225 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.Master.cs" Inherits="UmbrellaCorpGestion.Master.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    
+    <style type="text/css">
+        .auto-style2 {
+            width: 1174px;
+            height: 114px;
+        }
+        .auto-style4 {
+            width: 313px;
+            height: 114px;
+        }
+        .auto-style6 {
+            width: 1174px;
+            text-align: center;
+            height: 66px;
+        }
+        .auto-style7 {
+            font-size: xx-large;
+            background-color: #FFFFFF;
+        }
+        .auto-style10 {
+            width: 296px;
+            height: 231px;
+            margin-top: 0px;
+        }
+        .auto-style11 {
+            height: 114px;
+        }
+        .auto-style12 {
+            width: 313px;
+            height: 115px;
+        }
+        .auto-style13 {
+            width: 1174px;
+            height: 115px;
+        }
+        .auto-style14 {
+            height: 115px;
+        }
+        .auto-style15 {
+            height: 526px;
+            text-align: center;
+        }
+        .auto-style16 {
+            font-size: xx-large;
+        }
+        .auto-style17 {
+            width: 313px;
+            height: 66px;
+        }
+        .auto-style18 {
+            height: 66px;
+        }
+    </style>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            
+            <table style="width:100%;">
+                <tr>
+                    <td class="auto-style17">
+                        <img alt="logoUmbrella" class="img-circle"  src="../Imagenes/umbrella.png" width="304" height="236" /><strong><asp:Label ID="LabelUsername" runat="server" CssClass="auto-style16" ForeColor="#33CC33"></asp:Label>
+                        </strong>
+                    </td>
+                    <td class="auto-style6"><strong contextmenu="asd"><span class="auto-style7">Sistema Gestión Umbrella</span></strong></td>
+                    <td class="auto-style18">
+                        <strong>
+                        <asp:LinkButton ID="LinkButton1" runat="server" CssClass="auto-style16" ForeColor="Red" OnClick="LinkButton1_Click">SALIR&gt;&gt;</asp:LinkButton>
+                        </strong>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style12">&nbsp;
+                        <div class=" contennedor-arbol">
+                            <ul> 
+                                <li runat="server" id="G1">Gestión de Usuario
+                                    <ul>
+                                        <li runat="server" id="MisDatosMenu">Mis Datos
+                                            <ul>
+                                                <li runat="server" id="CambioMailMenu">
+                                                    <a href="../Usuarios/ModificarMiMail.aspx"><i class ="fa fa-key"></i>Cambio de Mail</a>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li runat="server" id="ModificarMiContraseña">
+                                                    <a href="../Usuarios/ModificarMiPass"><i class ="fa fa-key"></i>Modificar mi contraseña</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+
+                                        <li runat="server" id ="G2">Gestión General
+                                            <ul>
+                                                <li runat="server" id="Alta">
+                                                    <a href="../Usuarios/AltaUsuariosaspx.aspx""><i class ="fa fa-key"></i>Alta de Usuarios</a>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li runat="server" id="Consulta">
+                                                    <a href="../Usuarios/consultadeUsuariosaspx.aspx"><i class ="fa fa-key"></i>Consulta de Usuarios</a>
+                                                </li>
+                                            </ul>
+                                           </li>
+
+
+                                            <li runat="server" id ="G3">Gestión Permisos
+                                            <ul>
+                                                <li runat="server" id="VerPermisosMenu">
+                                                    <a href="#"><i class ="fa fa-key"></i>Ver Permisos</a>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li runat="server" id="Asignar">
+                                                    <a href="#"><i class ="fa fa-key"></i>Asignar Permisos</a>
+                                                </li>
+                                            </ul>
+                                           </li>
+
+
+
+
+                                            <li runat="server" id ="G4">Gestión de Materia Prima/Proveedores
+                                            <ul>
+                                                <li runat="server" id="AltadeProovedoresMenu">
+                                                    <a href="../MaterialProveedores/AltadeProovedores.aspx""><i class ="fa fa-key"></i>Alta de Proveedores</a>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li runat="server" id="ConsultadeProveedoresMenu">
+                                                    <a href="../MaterialProveedores/ConsultadeyModificacionProveedores.aspx"><i class ="fa fa-key"></i>Consulta de Proveedores</a>
+                                                </li>
+                                            </ul>
+                                                <ul>
+                                                <li runat="server" id="AltadeMateriaMenu">
+                                                    <a href="../MaterialProveedores/Altademateriaprima.aspx"><i class ="fa fa-key"></i>Alta de Materia Prima para Productos</a>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li runat="server" id="ConsultadeMateriaMenu">
+                                                    <a href="../MaterialProveedores/ConsultayModificacionMateriaPrima.aspx"><i class ="fa fa-key"></i>Consulta de Materia Prima</a>
+                                                </li>
+                                            </ul>
+                                          </li>
+
+
+
+                                    <li runat="server" id ="G5">Gestión de Productos
+                                            <ul>
+                                                <li runat="server" id="AltadeProductosMenu">
+                                                    <a href="../Productos/AltaProducto.aspx"><i class ="fa fa-key"></i>Alta de Productos</a>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li runat="server" id="ConsultadeProdcutosMenu">
+                                                    <a href="../Productos/ConsultayModificacionProducto.aspx"><i class ="fa fa-key"></i>Consulta de Productos</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+
+
+                                         <li runat="server" id ="G6">Gestión de Ventas
+                                            <ul>
+                                                <li runat="server" id="RealizarVentaMenu">
+                                                    <a href="#"><i class ="fa fa-key"></i>Realizar Venta</a>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li runat="server" id="VerVentasenProcesoMenu">
+                                                    <a href="#"><i class ="fa fa-key"></i>Ver Ventas en Proceso</a>
+                                                </li>
+                                            </ul>
+                                                <ul>
+                                                <li runat="server" id="VerVentasRealizadas">
+                                                    <a href="#"><i class ="fa fa-key"></i>Ver Ventas Realizadas</a>
+                                                </li>
+                                            </ul>
+                                            <ul>
+                                                <li runat="server" id="VerVentasCanceladas">
+                                                    <a href="#"><i class ="fa fa-key"></i>Ver Ventas Canceladas</a>
+                                                </li>
+                                            </ul>  
+                                        </li>
+
+
+
+
+
+
+ </ul>
+ </li>
+ </ul>
+
+                        </div>
+                    </td>
+                    <td class="auto-style13">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            <p class="auto-style15">
+                                &nbsp;</p>
+                        </asp:ContentPlaceHolder>
+                    </td>
+                    <td class="auto-style14"></td>
+                </tr>
+                <tr>
+                    <td class="auto-style4"></td>
+                    <td class="auto-style2"></td>
+                    <td class="auto-style11"></td>
+                </tr>
+            </table>
+            
+        </div>
+    </form>
+</body>
+</html>

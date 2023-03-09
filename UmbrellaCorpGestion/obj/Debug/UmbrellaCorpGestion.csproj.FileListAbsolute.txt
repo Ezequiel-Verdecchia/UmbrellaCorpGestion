@@ -1,0 +1,120 @@
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\obj\Debug\UmbrellaCorpGestion.csprojAssemblyReference.cache
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\obj\Debug\UmbrellaCorpGestion.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\UmbrellaCorpGestion.dll.config
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\UmbrellaCorpGestion.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\UmbrellaCorpGestion.pdb
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csc.exe
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csc.exe.config
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csc.rsp
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csi.exe
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csi.exe.config
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csi.rsp
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.AppContext.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Console.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.IO.Compression.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Net.Http.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.ValueTuple.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\vbc.exe
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\vbc.exe.config
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\vbc.rsp
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\VBCSCompiler.exe
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\obj\Debug\UmbrellaCorpGestion.csproj.CopyComplete
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\obj\Debug\UmbrellaCorpGestion.dll
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\obj\Debug\UmbrellaCorpGestion.pdb
+C:\Users\ezequ\source\repos\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\AjaxControlToolkit.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\UmbrellaCorpGestion.dll.config
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\UmbrellaCorpGestion.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\UmbrellaCorpGestion.pdb
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csc.exe
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csc.exe.config
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csc.rsp
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csi.exe
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csi.exe.config
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\csi.rsp
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.AppContext.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Console.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.IO.Compression.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Net.Http.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.ValueTuple.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\vbc.exe
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\vbc.exe.config
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\vbc.rsp
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\VBCSCompiler.exe
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\AjaxControlToolkit.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\obj\Debug\UmbrellaCorpGestion.csprojAssemblyReference.cache
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\obj\Debug\UmbrellaCorpGestion.csproj.CoreCompileInputs.cache
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\obj\Debug\UmbrellaCorpGestion.csproj.CopyComplete
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\obj\Debug\UmbrellaCorpGestion.dll
+C:\Users\EZE\Desktop\Eze Compu\Nueva carpeta (3)\seminario\UmbrellaCorpGestion\UmbrellaCorpGestion\obj\Debug\UmbrellaCorpGestion.pdb
